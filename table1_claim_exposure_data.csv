@@ -1,0 +1,32 @@
+Claim Number,Exposure ID,Line of Business,Claim Type,Jurisdiction/State,FNOL Date/Date Reported,Claim Create Date,Claim Close Date,Reopen Date,Coverage Type,Loss Cause,Litigation Flag,CAT Flag,Subrogation Flag,Complexity
+CLM-00001,CLM-00001-EXP01,Auto,Collision,MI,05/20/2024,05/20/2024,07/05/2024,,Property,Collision - Fixed Object,N,Y,Y,Low
+CLM-00001,CLM-00001-EXP02,Auto,Collision,MI,05/20/2024,05/20/2024,07/05/2024,,BI,Theft - Vehicle,N,N,N,Low
+CLM-00002,CLM-00002-EXP01,General Liability,Products Liability,IL,08/17/2024,08/17/2024,,,Collision,Equipment Malfunction,N,N,N,Medium
+CLM-00003,CLM-00003-EXP01,Homeowners,Fire,WI,06/21/2024,06/21/2024,10/10/2024,,Liability,Equipment Malfunction,Y,N,Y,Low
+CLM-00003,CLM-00003-EXP02,Homeowners,Fire,WI,06/21/2024,06/21/2024,10/10/2024,,UM,Collision - Fixed Object,N,N,N,Low
+CLM-00004,CLM-00004-EXP01,Workers Comp,Lost Time,MI,02/05/2024,02/05/2024,05/09/2024,,BI,Collision - Fixed Object,N,N,N,Low
+CLM-00005,CLM-00005-EXP01,Homeowners,Water Damage,NY,04/17/2024,04/17/2024,,,Comprehensive,Slip and Fall,N,N,N,Medium
+CLM-00005,CLM-00005-EXP02,Homeowners,Water Damage,NY,04/17/2024,04/17/2024,,,Indemnity,Fire - Electrical,N,N,N,Medium
+CLM-00005,CLM-00005-EXP03,Homeowners,Water Damage,NY,04/17/2024,04/17/2024,,,BI,Premises Liability,N,N,Y,Medium
+CLM-00006,CLM-00006-EXP01,Auto,PIP,MD,05/17/2024,05/17/2024,,,MedPay,Hit and Run,N,N,N,Low
+CLM-00007,CLM-00007-EXP01,Commercial Property,Wind/Hail,KY,03/12/2024,03/12/2024,06/07/2024,,UM,Slip and Fall,N,N,N,Low
+CLM-00007,CLM-00007-EXP02,Commercial Property,Wind/Hail,KY,03/12/2024,03/12/2024,06/07/2024,,Property,Water Damage - Pipe Burst,Y,Y,Y,Low
+CLM-00008,CLM-00008-EXP01,Homeowners,Theft,NC,02/02/2024,02/02/2024,06/20/2024,,Property,Collision - Rear Ended,N,Y,N,Low
+CLM-00009,CLM-00009-EXP01,Workers Comp,Permanent Disability,PA,05/30/2024,05/30/2024,08/25/2024,,PIP,Theft - Vehicle,N,N,N,Low
+CLM-00010,CLM-00010-EXP01,General Liability,Property Damage,VA,07/10/2024,07/10/2024,12/12/2024,,MedPay,Water Damage - Pipe Burst,Y,N,N,Medium
+CLM-00010,CLM-00010-EXP02,General Liability,Property Damage,VA,07/10/2024,07/10/2024,12/12/2024,,Liability,Hit and Run,Y,N,N,Medium
+CLM-00011,CLM-00011-EXP01,Auto,UM/UIM,PA,09/29/2024,09/29/2024,02/17/2025,,PIP,Hail Damage,N,N,N,Medium
+CLM-00012,CLM-00012-EXP01,General Liability,Property Damage,MI,06/08/2024,06/08/2024,,,MedPay,Water Damage - Pipe Burst,N,N,N,Low
+CLM-00012,CLM-00012-EXP02,General Liability,Property Damage,MI,06/08/2024,06/08/2024,,,Comprehensive,Wind Damage,Y,N,N,Low
+CLM-00013,CLM-00013-EXP01,Auto,Collision,MI,11/19/2024,11/19/2024,12/17/2024,,Comprehensive,Theft - Vehicle,N,N,N,Low
+CLM-00014,CLM-00014-EXP01,Homeowners,Liability,NC,08/30/2024,08/30/2024,01/01/2025,,Comprehensive,Premises Liability,N,N,N,Low
+CLM-00014,CLM-00014-EXP02,Homeowners,Liability,NC,08/30/2024,08/30/2024,01/01/2025,,Collision,Premises Liability,N,N,Y,Low
+CLM-00014,CLM-00014-EXP03,Homeowners,Liability,NC,08/30/2024,08/30/2024,01/01/2025,,MedPay,Equipment Malfunction,N,N,Y,Low
+CLM-00015,CLM-00015-EXP01,Commercial Property,Wind/Hail,MD,04/03/2024,04/03/2024,05/12/2024,,Property,Collision - Fixed Object,Y,N,N,Low
+CLM-00016,CLM-00016-EXP01,Auto,Comprehensive,VA,07/27/2024,07/27/2024,11/26/2024,,PIP,Fire - Electrical,Y,N,N,Low
+CLM-00016,CLM-00016-EXP02,Auto,Comprehensive,VA,07/27/2024,07/27/2024,11/26/2024,,Indemnity,Hail Damage,N,N,N,Low
+CLM-00017,CLM-00017-EXP01,General Liability,Products Liability,VA,04/07/2024,04/07/2024,,,Property,Collision - Rear Ended,N,Y,N,Low
+CLM-00018,CLM-00018-EXP01,General Liability,Property Damage,OH,09/17/2024,09/17/2024,03/08/2025,03/20/2025,UM,Collision - Fixed Object,N,N,N,Low
+CLM-00019,CLM-00019-EXP01,Auto,Liability,PA,08/02/2024,08/02/2024,11/10/2024,,BI,Premises Liability,N,N,N,Medium
+CLM-00019,CLM-00019-EXP02,Auto,Liability,PA,08/02/2024,08/02/2024,11/10/2024,,Liability,Water Damage - Pipe Burst,N,N,Y,Medium
+CLM-00020,CLM-00020-EXP01,Commercial Property,Equipment Breakdown,NC,02/21/2024,02/21/2024,05/18/2024,,MedPay,Collision - Fixed Object,N,N,Y,Low

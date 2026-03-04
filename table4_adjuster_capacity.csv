@@ -1,0 +1,16 @@
+Adjuster ID,Adjuster Name,Active Open Claims,Max Claim Capacity,Weighted Workload Score,Availability Status,PTO/OOO Flag
+ADJ-001,Sarah Mitchell,38,50,69,Near Capacity,N
+ADJ-002,James Kowalski,42,55,75,Near Capacity,N
+ADJ-003,Linda Reyes,28,40,51,Near Capacity,N
+ADJ-004,Marcus Thompson,31,45,55,Near Capacity,N
+ADJ-005,Patricia Chen,55,65,99,At Capacity,N
+ADJ-006,David O'Brien,15,20,27,Near Capacity,N
+ADJ-007,Anita Patel,47,55,84,At Capacity,N
+ADJ-008,Robert Harrington,36,50,64,Near Capacity,N
+ADJ-009,Kevin Walsh,82,90,147,At Capacity,N
+ADJ-010,Jennifer Nguyen,22,35,39,Near Capacity,N
+ADJ-011,Thomas Burke,44,55,80,At Capacity,N
+ADJ-012,Maria Gonzalez,60,70,108,At Capacity,N
+ADJ-013,Steven Park,39,50,71,Near Capacity,N
+ADJ-014,Rachel Coleman,10,15,18,Unavailable - PTO,Y
+ADJ-015,Christopher Adams,20,30,36,Near Capacity,N
