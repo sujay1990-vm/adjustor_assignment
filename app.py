@@ -15,19 +15,25 @@ st.set_page_config(
 )
 
 # ── Secrets helper ────────────────────────────────────────────────────────────
-# Streamlit's st.secrets reads .streamlit/secrets.toml (no dot prefix).
-# Our file is .streamlit/.secrets.toml, so we load it manually and expose the
-# same _req_secret() interface.
-@st.cache_resource
-def _load_secrets() -> dict:
-    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".streamlit", ".secrets.toml")
-    return toml.load(path)
-
+# On Streamlit Cloud secrets come via st.secrets (dashboard → Secrets).
+# Locally they live in .streamlit/.secrets.toml — toml.load is the fallback.
 def _req_secret(key: str) -> str:
-    cfg = _load_secrets()
-    if key not in cfg or not str(cfg[key]).strip():
-        raise RuntimeError(f"Missing secret: {key}")
-    return str(cfg[key]).strip()
+    # Cloud path: st.secrets populated from the dashboard
+    try:
+        val = st.secrets[key]
+        if val and str(val).strip():
+            return str(val).strip()
+    except (KeyError, FileNotFoundError):
+        pass
+    # Local path: .streamlit/.secrets.toml
+    local_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".streamlit", ".secrets.toml")
+    try:
+        cfg = toml.load(local_path)
+        if key in cfg and str(cfg[key]).strip():
+            return str(cfg[key]).strip()
+    except FileNotFoundError:
+        pass
+    raise RuntimeError(f"Missing secret: {key}")
 
 # ── LangChain LLM client ──────────────────────────────────────────────────────
 @st.cache_resource
