@@ -227,7 +227,7 @@ if page == "Data Explorer":
             return styles.get(val, "")
 
         st.dataframe(
-            t4.style.applymap(highlight_avail, subset=["Availability Status"]),
+            t4.style.map(highlight_avail, subset=["Availability Status"]),
             use_container_width=True,
             height=540,
         )
@@ -382,7 +382,7 @@ else:
         return f"color:{c};font-weight:600" if c else ""
 
     st.dataframe(
-        summary_df.style.applymap(color_event_type, subset=["Event Type"]),
+        summary_df.style.map(color_event_type, subset=["Event Type"]),
         use_container_width=True,
         hide_index=True,
     )
