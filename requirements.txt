@@ -4,3 +4,7 @@ langchain-core==0.3.75
 openai==1.59.4
 toml==0.10.2
 pandas==2.2.3
+xgboost==3.0.2
+scikit-learn==1.7.2
+plotly==5.19.0
+scipy==1.14.1

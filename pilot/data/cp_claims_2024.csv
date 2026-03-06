@@ -1,0 +1,201 @@
+claim_id,lob,loss_cause,policy_type,loss_state,insured_state,geographic_mismatch,stp_flag,reported_loss_amount,n_exposures_at_fnol,exposure_added_within_48h,fnol_date,close_date,fnol_hour,fnol_day_of_week,final_group,complexity
+CP-0001,Commercial Property,Flood - Sewer Backup,BOP,MD,IL,1,Y,120500.0,2,1,04/01/2024,08/26/2024,9,4,B,High
+CP-0002,Commercial Property,Equipment Breakdown,Standalone Property,WV,IN,1,N,42600.0,1,0,10/07/2024,10/25/2024,7,6,0,Medium
+CP-0003,Commercial Property,Vandalism,Standalone Property,PA,VA,1,N,22300.0,1,0,03/30/2024,07/11/2024,12,3,B,Medium
+CP-0004,Commercial Property,Business Interruption,Commercial Package,NY,VA,1,N,277400.0,1,0,01/20/2024,05/05/2024,20,0,B,High
+CP-0005,Commercial Property,Flood - Sewer Backup,BOP,IL,PA,1,N,76100.0,3,0,06/11/2024,11/18/2024,14,1,C,High
+CP-0006,Commercial Property,Wind/Hail - Exterior,Commercial Package,OH,WV,1,N,68100.0,3,1,03/04/2024,12/27/2024,20,6,C,High
+CP-0007,Commercial Property,Flood - Sewer Backup,Standalone Property,NC,NY,1,N,85200.0,1,0,08/18/2024,06/07/2025,18,2,C,High
+CP-0008,Commercial Property,Wind/Hail - Exterior,BOP,MD,IN,1,N,27700.0,2,1,10/20/2024,04/27/2025,8,5,C,High
+CP-0009,Commercial Property,Flood - Surface,Standalone Property,KY,WV,1,N,84400.0,1,0,03/09/2024,01/30/2025,8,3,C,High
+CP-0010,Commercial Property,Flood - Surface,Standalone Property,OH,NC,1,Y,72000.0,2,0,11/26/2024,05/03/2025,10,0,C,High
+CP-0011,Commercial Property,Flood - Sewer Backup,BOP,WV,IL,1,Y,33000.0,1,0,08/10/2024,09/21/2024,18,4,A,Medium
+CP-0012,Commercial Property,Fire - Structure,Industrial,IL,NC,1,N,596400.0,3,1,04/30/2024,10/07/2024,17,2,C,High
+CP-0013,Commercial Property,Water Damage - Pipe Burst,Standalone Property,IL,OH,1,Y,29000.0,3,1,11/04/2024,06/18/2025,14,1,C,High
+CP-0014,Commercial Property,Wind/Hail - Roof,Industrial,VA,IL,1,N,18500.0,1,0,05/09/2024,10/02/2024,13,2,C,High
+CP-0015,Commercial Property,Flood - Sewer Backup,Industrial,IN,NC,1,Y,102900.0,1,0,08/17/2024,04/09/2025,8,0,C,High
+CP-0016,Commercial Property,Water Damage - Pipe Burst,Commercial Package,WV,KY,1,N,69300.0,1,0,04/10/2024,12/23/2024,16,5,C,High
+CP-0017,Commercial Property,Fire - Structure,Standalone Property,PA,IN,1,N,576300.0,2,1,08/24/2024,12/26/2024,16,1,B,High
+CP-0018,Commercial Property,Water Damage - Pipe Burst,Standalone Property,IN,IL,1,Y,39000.0,1,0,06/07/2024,02/20/2025,15,2,C,High
+CP-0019,Commercial Property,Flood - Surface,Industrial,IL,VA,1,Y,170500.0,1,0,05/25/2024,07/30/2024,16,1,B,Medium
+CP-0020,Commercial Property,Wind/Hail - Roof,Industrial,NY,OH,1,Y,49400.0,2,1,08/19/2024,09/26/2024,12,5,0,Medium
+CP-0021,Commercial Property,Equipment Breakdown,Industrial,IL,VA,1,N,31500.0,1,0,02/29/2024,04/16/2024,17,3,0,Low
+CP-0022,Commercial Property,Water Damage - Pipe Burst,Industrial,PA,KY,1,Y,59500.0,1,0,02/29/2024,05/09/2024,18,6,A,Medium
+CP-0023,Commercial Property,Flood - Sewer Backup,Industrial,MD,MD,0,N,41300.0,1,0,09/13/2024,11/07/2024,6,2,0,Low
+CP-0024,Commercial Property,Fire - Electrical,Commercial Package,PA,NY,1,N,388900.0,2,1,03/24/2024,11/09/2024,11,0,C,High
+CP-0025,Commercial Property,Water Damage - Pipe Burst,Industrial,NY,WV,1,N,46700.0,2,0,03/28/2024,07/02/2024,8,6,C,High
+CP-0026,Commercial Property,Flood - Surface,Commercial Package,KY,WV,1,N,76000.0,1,0,01/02/2024,10/05/2024,13,0,C,High
+CP-0027,Commercial Property,Fire - Structure,Commercial Package,IL,OH,1,N,300300.0,2,0,02/11/2024,08/26/2024,18,5,C,High
+CP-0028,Commercial Property,Vandalism,Commercial Package,WV,MD,1,N,10400.0,1,0,09/24/2024,03/06/2025,17,1,C,High
+CP-0029,Commercial Property,Flood - Sewer Backup,Industrial,MD,IL,1,N,140600.0,2,0,12/15/2024,05/11/2025,15,1,B,High
+CP-0030,Commercial Property,Flood - Surface,Commercial Package,PA,NY,1,Y,207600.0,1,0,02/11/2024,08/17/2024,13,5,C,High
+CP-0031,Commercial Property,Business Interruption,Commercial Package,NC,MD,1,N,428100.0,3,1,08/12/2024,12/23/2024,12,0,B,High
+CP-0032,Commercial Property,Water Damage - Pipe Burst,Industrial,IN,WV,1,N,86000.0,3,0,07/06/2024,07/23/2024,20,5,0,Low
+CP-0033,Commercial Property,Fire - Structure,Commercial Package,IN,WV,1,N,568200.0,1,0,06/02/2024,12/11/2024,7,1,C,High
+CP-0034,Commercial Property,Equipment Breakdown,BOP,WV,MD,1,Y,36100.0,2,1,06/02/2024,07/04/2024,16,1,0,Medium
+CP-0035,Commercial Property,Wind/Hail - Roof,Standalone Property,VA,PA,1,N,84200.0,1,0,05/11/2024,01/20/2025,13,1,C,High
+CP-0036,Commercial Property,Vandalism,Commercial Package,IN,PA,1,Y,34600.0,2,1,09/20/2024,05/13/2025,9,0,C,Medium
+CP-0037,Commercial Property,Wind/Hail - Roof,Industrial,PA,PA,0,N,35200.0,1,0,06/22/2024,07/08/2024,20,6,0,Low
+CP-0038,Commercial Property,Flood - Surface,Industrial,MD,KY,1,N,240200.0,1,0,01/15/2024,02/03/2024,7,2,0,Low
+CP-0039,Commercial Property,Fire - Structure,Standalone Property,VA,IL,1,N,639800.0,1,0,11/14/2024,06/18/2025,7,1,C,High
+CP-0040,Commercial Property,Wind/Hail - Exterior,Industrial,OH,KY,1,N,73000.0,1,0,02/26/2024,04/25/2024,10,1,0,Medium
+CP-0041,Commercial Property,Flood - Surface,Commercial Package,IN,NC,1,Y,138500.0,2,1,04/21/2024,11/15/2024,16,4,C,High
+CP-0042,Commercial Property,Flood - Surface,BOP,OH,WV,1,N,47700.0,1,0,01/20/2024,05/11/2024,17,4,B,High
+CP-0043,Commercial Property,Flood - Sewer Backup,Commercial Package,VA,NC,1,N,22200.0,2,0,02/20/2024,11/24/2024,6,3,C,High
+CP-0044,Commercial Property,Wind/Hail - Roof,BOP,NY,NC,1,Y,65500.0,1,0,02/10/2024,03/10/2024,6,0,0,Low
+CP-0045,Commercial Property,Flood - Sewer Backup,Commercial Package,OH,IN,1,N,95300.0,1,0,01/28/2024,08/28/2024,19,0,C,Medium
+CP-0046,Commercial Property,Fire - Structure,Industrial,OH,PA,1,N,544000.0,3,0,09/07/2024,05/14/2025,6,4,C,High
+CP-0047,Commercial Property,Fire - Structure,BOP,IL,NC,1,N,171500.0,1,0,07/27/2024,04/18/2025,16,0,C,High
+CP-0048,Commercial Property,Business Interruption,BOP,MD,WV,1,N,221700.0,1,0,11/05/2024,10/04/2025,12,1,C,Medium
+CP-0049,Commercial Property,Equipment Breakdown,Industrial,NC,VA,1,N,45500.0,3,1,04/13/2024,03/25/2025,15,4,C,Medium
+CP-0050,Commercial Property,Equipment Breakdown,BOP,OH,OH,0,N,14500.0,2,1,05/26/2024,02/27/2025,12,2,C,Medium
+CP-0051,Commercial Property,Wind/Hail - Exterior,BOP,IN,IL,1,N,17300.0,2,1,04/23/2024,08/08/2024,12,1,C,Medium
+CP-0052,Commercial Property,Wind/Hail - Roof,Industrial,KY,MD,1,Y,19500.0,1,0,11/03/2024,06/12/2025,13,6,C,High
+CP-0053,Commercial Property,Flood - Surface,Industrial,NC,PA,1,N,100200.0,1,0,09/12/2024,12/04/2024,11,3,B,High
+CP-0054,Commercial Property,Flood - Sewer Backup,Standalone Property,MD,NC,1,N,116200.0,1,0,02/25/2024,03/30/2024,16,3,0,Low
+CP-0055,Commercial Property,Flood - Surface,Commercial Package,MD,OH,1,N,32400.0,1,0,02/14/2024,11/21/2024,17,5,C,Medium
+CP-0056,Commercial Property,Flood - Surface,BOP,WV,IL,1,N,200000.0,1,0,02/22/2024,04/22/2024,15,2,B,Medium
+CP-0057,Commercial Property,Flood - Sewer Backup,Standalone Property,OH,MD,1,N,51100.0,3,0,09/01/2024,09/22/2024,7,6,0,Low
+CP-0058,Commercial Property,Fire - Electrical,Commercial Package,IN,PA,1,N,141200.0,1,0,08/12/2024,11/03/2024,20,5,B,Medium
+CP-0059,Commercial Property,Vandalism,Standalone Property,OH,PA,1,N,18000.0,1,0,08/14/2024,08/30/2024,16,1,0,Medium
+CP-0060,Commercial Property,Fire - Electrical,Industrial,VA,NC,1,N,277300.0,2,0,06/02/2024,04/25/2025,16,1,C,High
+CP-0061,Commercial Property,Fire - Structure,BOP,WV,MD,1,N,758800.0,1,0,01/14/2024,11/01/2024,12,4,C,Medium
+CP-0062,Commercial Property,Business Interruption,BOP,MD,NY,1,N,199700.0,3,1,03/13/2024,10/12/2024,19,3,C,High
+CP-0063,Commercial Property,Vandalism,Standalone Property,VA,NY,1,N,36800.0,1,0,08/10/2024,10/03/2024,9,6,0,Medium
+CP-0064,Commercial Property,Flood - Surface,Commercial Package,IL,IL,0,N,193000.0,3,1,06/21/2024,12/06/2024,8,5,C,High
+CP-0065,Commercial Property,Fire - Electrical,BOP,IN,IL,1,N,223900.0,1,0,01/05/2024,02/11/2024,12,0,0,Medium
+CP-0066,Commercial Property,Wind/Hail - Roof,Standalone Property,IL,OH,1,Y,106000.0,1,0,09/12/2024,12/04/2024,8,2,B,Medium
+CP-0067,Commercial Property,Flood - Surface,BOP,IL,VA,1,Y,49000.0,1,0,08/28/2024,11/21/2024,19,6,A,Medium
+CP-0068,Commercial Property,Equipment Breakdown,BOP,PA,NY,1,Y,38500.0,2,0,06/03/2024,06/27/2024,6,1,0,Low
+CP-0069,Commercial Property,Wind/Hail - Roof,Standalone Property,PA,PA,0,N,88300.0,1,0,04/05/2024,05/17/2024,7,1,0,Low
+CP-0070,Commercial Property,Flood - Surface,BOP,KY,PA,1,N,94600.0,1,0,11/20/2024,12/07/2024,13,4,0,Low
+CP-0071,Commercial Property,Equipment Breakdown,Standalone Property,IL,WV,1,N,11500.0,1,0,02/20/2024,09/20/2024,16,6,C,High
+CP-0072,Commercial Property,Vandalism,Commercial Package,NC,NC,0,N,28800.0,2,0,05/08/2024,07/09/2024,7,4,B,Medium
+CP-0073,Commercial Property,Equipment Breakdown,Standalone Property,KY,VA,1,N,40200.0,3,1,11/23/2024,03/13/2025,15,6,C,High
+CP-0074,Commercial Property,Fire - Electrical,Commercial Package,WV,VA,1,N,385200.0,2,1,06/05/2024,08/13/2024,18,1,A,Medium
+CP-0075,Commercial Property,Water Damage - Pipe Burst,Industrial,PA,NY,1,Y,61200.0,2,0,05/15/2024,10/10/2024,17,0,C,Medium
+CP-0076,Commercial Property,Vandalism,Commercial Package,KY,NY,1,N,25800.0,1,0,09/01/2024,09/25/2024,16,6,0,Low
+CP-0077,Commercial Property,Wind/Hail - Roof,Commercial Package,NC,PA,1,N,54800.0,2,1,12/16/2024,02/20/2025,11,2,B,High
+CP-0078,Commercial Property,Fire - Structure,Standalone Property,NY,IL,1,N,676400.0,1,0,04/30/2024,11/11/2024,6,0,C,High
+CP-0079,Commercial Property,Fire - Structure,BOP,NC,NC,0,N,758000.0,1,0,11/19/2024,06/28/2025,20,0,C,High
+CP-0080,Commercial Property,Business Interruption,Standalone Property,VA,IL,1,Y,293300.0,1,0,07/30/2024,09/01/2024,8,6,0,Low
+CP-0081,Commercial Property,Vandalism,Standalone Property,OH,NY,1,N,6700.0,3,1,04/29/2024,07/02/2024,7,1,B,High
+CP-0082,Commercial Property,Wind/Hail - Roof,Standalone Property,OH,OH,0,N,15600.0,2,0,12/31/2024,01/25/2025,11,6,0,Low
+CP-0083,Commercial Property,Flood - Surface,Industrial,WV,PA,1,N,160100.0,1,0,10/16/2024,06/05/2025,15,4,C,High
+CP-0084,Commercial Property,Water Damage - Pipe Burst,Industrial,NY,PA,1,N,46600.0,2,0,08/23/2024,07/23/2025,7,1,C,High
+CP-0085,Commercial Property,Wind/Hail - Roof,Commercial Package,IL,WV,1,N,54100.0,2,0,01/09/2024,01/27/2024,8,1,0,Low
+CP-0086,Commercial Property,Business Interruption,Industrial,VA,WV,1,N,257300.0,1,0,03/04/2024,04/01/2024,20,5,0,Low
+CP-0087,Commercial Property,Vandalism,Commercial Package,NC,WV,1,N,18200.0,1,0,10/02/2024,09/15/2025,19,4,C,High
+CP-0088,Commercial Property,Fire - Electrical,BOP,IL,WV,1,N,252800.0,3,1,01/25/2024,04/22/2024,10,2,A,Low
+CP-0089,Commercial Property,Vandalism,BOP,VA,KY,1,N,29800.0,1,0,12/23/2024,03/27/2025,17,3,C,High
+CP-0090,Commercial Property,Vandalism,Industrial,IL,VA,1,Y,15500.0,2,1,02/07/2024,07/04/2024,17,2,C,High
+CP-0091,Commercial Property,Fire - Structure,Standalone Property,WV,NC,1,Y,647000.0,1,0,01/30/2024,12/07/2024,18,2,C,High
+CP-0092,Commercial Property,Fire - Structure,Standalone Property,NC,IL,1,N,777600.0,1,0,12/29/2024,04/27/2025,18,3,B,High
+CP-0093,Commercial Property,Business Interruption,BOP,PA,VA,1,Y,126500.0,1,0,11/04/2024,12/03/2024,9,0,0,Low
+CP-0094,Commercial Property,Equipment Breakdown,Industrial,OH,NC,1,N,29300.0,1,0,06/02/2024,04/18/2025,7,5,C,High
+CP-0095,Commercial Property,Flood - Surface,Industrial,IL,IL,0,N,39500.0,1,0,09/14/2024,01/19/2025,9,5,C,High
+CP-0096,Commercial Property,Fire - Electrical,Commercial Package,NY,MD,1,N,245900.0,2,1,02/15/2024,10/25/2024,18,6,C,High
+CP-0097,Commercial Property,Fire - Structure,Industrial,MD,IL,1,N,317700.0,3,0,07/23/2024,06/22/2025,7,1,C,High
+CP-0098,Commercial Property,Business Interruption,Commercial Package,WV,WV,0,N,383600.0,2,1,11/08/2024,06/05/2025,13,5,C,High
+CP-0099,Commercial Property,Fire - Electrical,Standalone Property,PA,NY,1,N,361600.0,1,0,11/18/2024,12/09/2024,16,3,0,Low
+CP-0100,Commercial Property,Vandalism,Standalone Property,OH,VA,1,N,9300.0,3,1,01/06/2024,09/09/2024,9,6,C,High
+CP-0101,Commercial Property,Equipment Breakdown,Industrial,OH,MD,1,Y,57900.0,3,1,02/22/2024,03/19/2024,16,1,0,Low
+CP-0102,Commercial Property,Vandalism,Standalone Property,OH,OH,0,N,17300.0,3,1,03/17/2024,05/15/2024,17,6,0,Medium
+CP-0103,Commercial Property,Fire - Structure,Commercial Package,KY,IN,1,N,504000.0,1,0,07/23/2024,09/10/2024,17,4,0,Medium
+CP-0104,Commercial Property,Flood - Sewer Backup,BOP,MD,IL,1,N,111700.0,2,0,10/09/2024,02/06/2025,8,5,C,High
+CP-0105,Commercial Property,Equipment Breakdown,BOP,MD,WV,1,Y,11100.0,1,0,10/21/2024,01/15/2025,11,1,A,Medium
+CP-0106,Commercial Property,Fire - Structure,Industrial,NC,NC,0,Y,314000.0,1,0,02/02/2024,11/18/2024,18,3,C,High
+CP-0107,Commercial Property,Water Damage - Pipe Burst,Standalone Property,NY,WV,1,Y,18500.0,1,0,08/09/2024,09/22/2024,14,1,0,Low
+CP-0108,Commercial Property,Wind/Hail - Roof,Commercial Package,PA,KY,1,N,56200.0,1,0,07/21/2024,09/12/2024,7,6,0,Low
+CP-0109,Commercial Property,Water Damage - Pipe Burst,BOP,WV,MD,1,Y,67700.0,3,1,06/09/2024,01/28/2025,10,6,C,High
+CP-0110,Commercial Property,Equipment Breakdown,Commercial Package,NY,IN,1,N,17500.0,3,1,11/03/2024,12/15/2024,15,6,0,Medium
+CP-0111,Commercial Property,Business Interruption,Industrial,IN,IL,1,N,381500.0,1,0,10/23/2024,11/21/2024,16,5,0,Medium
+CP-0112,Commercial Property,Vandalism,BOP,IN,NC,1,N,16400.0,3,0,10/20/2024,08/30/2025,7,6,C,High
+CP-0113,Commercial Property,Vandalism,Standalone Property,NC,IL,1,Y,9300.0,1,0,06/11/2024,10/10/2024,9,3,B,High
+CP-0114,Commercial Property,Fire - Electrical,Commercial Package,WV,NY,1,N,263300.0,1,0,07/20/2024,08/11/2024,7,2,0,Low
+CP-0115,Commercial Property,Fire - Electrical,Standalone Property,NC,IL,1,N,272300.0,1,0,08/14/2024,05/21/2025,11,2,C,Medium
+CP-0116,Commercial Property,Fire - Electrical,Commercial Package,IN,NC,1,N,252200.0,2,0,09/06/2024,10/16/2024,16,5,0,Low
+CP-0117,Commercial Property,Wind/Hail - Roof,BOP,IN,PA,1,N,89400.0,1,0,04/28/2024,11/04/2024,11,3,C,High
+CP-0118,Commercial Property,Fire - Electrical,Commercial Package,NY,MD,1,N,328700.0,2,0,02/22/2024,09/29/2024,7,2,C,High
+CP-0119,Commercial Property,Business Interruption,Commercial Package,PA,IL,1,N,272900.0,2,1,05/06/2024,12/18/2024,15,2,C,High
+CP-0120,Commercial Property,Fire - Structure,Industrial,OH,IL,1,N,479300.0,1,0,04/22/2024,07/26/2024,16,4,B,High
+CP-0121,Commercial Property,Business Interruption,Industrial,NC,KY,1,Y,422700.0,1,0,10/23/2024,12/06/2024,7,1,0,Low
+CP-0122,Commercial Property,Vandalism,BOP,IL,WV,1,N,10300.0,1,0,09/26/2024,01/08/2025,9,2,C,High
+CP-0123,Commercial Property,Wind/Hail - Roof,Industrial,VA,NY,1,N,48300.0,1,0,08/15/2024,07/04/2025,20,6,C,High
+CP-0124,Commercial Property,Wind/Hail - Roof,BOP,NY,IN,1,N,111500.0,2,1,08/27/2024,02/24/2025,11,5,C,High
+CP-0125,Commercial Property,Wind/Hail - Exterior,Industrial,IL,IL,0,Y,39400.0,1,0,08/24/2024,02/09/2025,13,1,C,High
+CP-0126,Commercial Property,Business Interruption,Industrial,NY,WV,1,N,453400.0,1,0,11/29/2024,09/20/2025,19,2,C,High
+CP-0127,Commercial Property,Flood - Surface,Industrial,MD,VA,1,N,69800.0,1,0,07/07/2024,08/28/2024,9,0,0,Medium
+CP-0128,Commercial Property,Fire - Electrical,BOP,NY,OH,1,N,378400.0,1,0,07/05/2024,10/06/2024,7,1,B,Medium
+CP-0129,Commercial Property,Vandalism,Industrial,IL,IL,0,N,30700.0,2,1,08/01/2024,12/13/2024,8,6,C,High
+CP-0130,Commercial Property,Wind/Hail - Roof,Standalone Property,MD,VA,1,N,25900.0,1,0,12/13/2024,08/04/2025,6,6,C,Medium
+CP-0131,Commercial Property,Fire - Electrical,Commercial Package,IL,NC,1,Y,387500.0,1,0,04/17/2024,05/05/2024,9,6,0,Low
+CP-0132,Commercial Property,Flood - Surface,Industrial,IL,NC,1,N,152600.0,2,1,02/18/2024,11/28/2024,7,6,C,High
+CP-0133,Commercial Property,Equipment Breakdown,Commercial Package,OH,NY,1,N,46700.0,3,1,09/16/2024,08/18/2025,14,1,C,High
+CP-0134,Commercial Property,Fire - Electrical,Standalone Property,VA,NY,1,N,357700.0,2,1,11/09/2024,04/06/2025,9,2,C,High
+CP-0135,Commercial Property,Water Damage - Pipe Burst,BOP,OH,WV,1,N,74700.0,2,1,07/10/2024,08/01/2024,18,3,0,Low
+CP-0136,Commercial Property,Fire - Structure,Standalone Property,KY,NY,1,N,274200.0,2,0,03/16/2024,10/15/2024,8,4,C,High
+CP-0137,Commercial Property,Vandalism,Commercial Package,WV,KY,1,N,15600.0,2,0,05/12/2024,11/04/2024,14,5,C,High
+CP-0138,Commercial Property,Equipment Breakdown,Industrial,OH,NY,1,N,40000.0,1,0,08/07/2024,10/17/2024,13,6,B,Medium
+CP-0139,Commercial Property,Wind/Hail - Roof,BOP,NY,VA,1,N,22500.0,2,1,11/30/2024,02/02/2025,18,5,A,Medium
+CP-0140,Commercial Property,Water Damage - Pipe Burst,Standalone Property,NY,WV,1,Y,50400.0,2,1,11/30/2024,06/28/2025,8,1,C,Medium
+CP-0141,Commercial Property,Fire - Structure,BOP,PA,KY,1,N,384900.0,1,0,12/04/2024,01/15/2025,6,6,0,Medium
+CP-0142,Commercial Property,Water Damage - Pipe Burst,Standalone Property,PA,PA,0,N,78700.0,1,0,05/14/2024,03/16/2025,16,6,C,High
+CP-0143,Commercial Property,Flood - Sewer Backup,Commercial Package,VA,WV,1,Y,85100.0,1,0,12/28/2024,09/03/2025,20,4,C,High
+CP-0144,Commercial Property,Wind/Hail - Exterior,Commercial Package,KY,KY,0,N,27000.0,3,1,08/21/2024,01/10/2025,7,1,C,High
+CP-0145,Commercial Property,Wind/Hail - Roof,Industrial,NY,IL,1,N,65900.0,1,0,05/30/2024,10/11/2024,10,2,B,High
+CP-0146,Commercial Property,Fire - Electrical,Standalone Property,MD,KY,1,N,147000.0,1,0,03/31/2024,04/28/2024,10,5,0,Low
+CP-0147,Commercial Property,Flood - Surface,Commercial Package,PA,WV,1,N,171900.0,1,0,06/14/2024,07/23/2024,15,1,A,Medium
+CP-0148,Commercial Property,Flood - Sewer Backup,Commercial Package,KY,KY,0,N,84200.0,1,0,06/30/2024,07/18/2024,11,2,0,Medium
+CP-0149,Commercial Property,Flood - Surface,Industrial,IL,WV,1,N,42500.0,1,0,04/23/2024,03/14/2025,17,3,C,High
+CP-0150,Commercial Property,Water Damage - Pipe Burst,Commercial Package,KY,IL,1,N,50900.0,1,0,02/09/2024,05/09/2024,6,2,A,Low
+CP-0151,Commercial Property,Fire - Structure,BOP,PA,IL,1,N,721700.0,3,0,02/21/2024,11/08/2024,19,0,C,High
+CP-0152,Commercial Property,Fire - Structure,BOP,IL,NY,1,N,476400.0,2,1,05/20/2024,10/18/2024,8,4,C,High
+CP-0153,Commercial Property,Water Damage - Pipe Burst,BOP,WV,OH,1,N,59600.0,1,0,12/23/2024,09/02/2025,18,1,C,High
+CP-0154,Commercial Property,Business Interruption,Industrial,NC,OH,1,N,448100.0,1,0,09/22/2024,01/12/2025,17,0,B,Medium
+CP-0155,Commercial Property,Fire - Structure,BOP,OH,PA,1,N,387700.0,1,0,03/23/2024,11/02/2024,9,1,C,High
+CP-0156,Commercial Property,Flood - Surface,Commercial Package,NY,VA,1,N,171800.0,3,0,06/01/2024,12/06/2024,10,3,C,Medium
+CP-0157,Commercial Property,Wind/Hail - Roof,Industrial,VA,IN,1,N,19000.0,1,0,05/31/2024,02/06/2025,14,5,C,High
+CP-0158,Commercial Property,Fire - Structure,Commercial Package,WV,IN,1,N,652600.0,2,0,12/30/2024,07/09/2025,19,5,C,Medium
+CP-0159,Commercial Property,Fire - Electrical,Industrial,KY,VA,1,N,80300.0,1,0,09/01/2024,05/24/2025,15,2,C,High
+CP-0160,Commercial Property,Business Interruption,Standalone Property,OH,VA,1,N,141600.0,2,0,02/07/2024,08/30/2024,17,6,C,High
+CP-0161,Commercial Property,Fire - Structure,Industrial,VA,NY,1,N,338300.0,2,1,02/13/2024,08/01/2024,13,2,C,Medium
+CP-0162,Commercial Property,Wind/Hail - Roof,Standalone Property,OH,NC,1,Y,70100.0,2,1,06/22/2024,10/28/2024,16,6,B,High
+CP-0163,Commercial Property,Fire - Structure,Industrial,WV,MD,1,N,746900.0,1,0,11/03/2024,12/18/2024,17,4,0,Low
+CP-0164,Commercial Property,Flood - Sewer Backup,Commercial Package,OH,VA,1,N,134900.0,1,0,01/24/2024,03/19/2024,19,2,0,Medium
+CP-0165,Commercial Property,Wind/Hail - Exterior,Industrial,IL,NC,1,N,36400.0,1,0,12/25/2024,06/24/2025,20,0,C,High
+CP-0166,Commercial Property,Fire - Structure,BOP,OH,OH,0,N,345000.0,1,0,07/18/2024,07/07/2025,12,3,C,High
+CP-0167,Commercial Property,Equipment Breakdown,Commercial Package,NC,VA,1,N,22100.0,1,0,12/10/2024,06/28/2025,12,2,C,High
+CP-0168,Commercial Property,Flood - Surface,Standalone Property,NY,KY,1,N,137700.0,1,0,09/02/2024,02/03/2025,13,0,C,High
+CP-0169,Commercial Property,Flood - Sewer Backup,Standalone Property,NY,OH,1,Y,83900.0,1,0,10/10/2024,11/03/2024,10,2,0,Low
+CP-0170,Commercial Property,Business Interruption,Industrial,IN,NC,1,N,341600.0,3,1,11/11/2024,09/02/2025,9,3,C,High
+CP-0171,Commercial Property,Vandalism,Industrial,IN,PA,1,N,11800.0,3,1,02/03/2024,04/10/2024,18,2,A,Medium
+CP-0172,Commercial Property,Flood - Surface,Standalone Property,IL,VA,1,N,240900.0,1,0,12/22/2024,03/26/2025,14,3,C,Medium
+CP-0173,Commercial Property,Fire - Electrical,Commercial Package,IL,VA,1,N,185700.0,1,0,10/23/2024,12/21/2024,13,0,0,Medium
+CP-0174,Commercial Property,Equipment Breakdown,BOP,NY,WV,1,N,17000.0,3,1,12/21/2024,04/16/2025,6,4,C,High
+CP-0175,Commercial Property,Water Damage - Pipe Burst,Industrial,VA,IL,1,N,71400.0,1,0,11/19/2024,03/13/2025,13,6,C,High
+CP-0176,Commercial Property,Flood - Sewer Backup,Commercial Package,VA,PA,1,N,70100.0,2,0,10/03/2024,12/16/2024,8,0,A,Medium
+CP-0177,Commercial Property,Wind/Hail - Roof,BOP,IL,VA,1,N,56600.0,1,0,07/20/2024,09/06/2024,9,3,0,Low
+CP-0178,Commercial Property,Wind/Hail - Exterior,Industrial,PA,IN,1,Y,15100.0,1,0,02/22/2024,12/22/2024,18,2,C,High
+CP-0179,Commercial Property,Fire - Structure,Standalone Property,NC,WV,1,N,696900.0,1,0,10/31/2024,02/03/2025,9,5,B,Medium
+CP-0180,Commercial Property,Business Interruption,Standalone Property,NC,PA,1,N,180600.0,1,0,04/22/2024,01/01/2025,6,0,C,Medium
+CP-0181,Commercial Property,Wind/Hail - Exterior,Commercial Package,NC,IL,1,N,75000.0,1,0,03/27/2024,06/25/2024,9,6,B,Medium
+CP-0182,Commercial Property,Equipment Breakdown,BOP,VA,NC,1,N,51700.0,3,1,05/23/2024,07/27/2024,11,4,A,Medium
+CP-0183,Commercial Property,Business Interruption,Industrial,VA,MD,1,N,149100.0,2,1,07/11/2024,12/22/2024,8,4,C,High
+CP-0184,Commercial Property,Water Damage - Pipe Burst,Standalone Property,IN,IN,0,N,72500.0,1,0,05/24/2024,09/27/2024,9,3,C,Medium
+CP-0185,Commercial Property,Business Interruption,BOP,NC,IL,1,N,494600.0,1,0,06/19/2024,04/01/2025,17,5,C,Medium
+CP-0186,Commercial Property,Equipment Breakdown,Standalone Property,KY,PA,1,N,14200.0,1,0,06/07/2024,12/19/2024,11,0,C,High
+CP-0187,Commercial Property,Wind/Hail - Roof,Commercial Package,PA,KY,1,N,84900.0,1,0,01/03/2024,05/12/2024,14,1,C,Medium
+CP-0188,Commercial Property,Vandalism,BOP,OH,IL,1,N,18500.0,1,0,10/26/2024,07/10/2025,11,6,C,High
+CP-0189,Commercial Property,Water Damage - Pipe Burst,Industrial,IN,IN,0,Y,72800.0,1,0,03/02/2024,07/04/2024,6,1,B,High
+CP-0190,Commercial Property,Vandalism,BOP,WV,VA,1,N,29300.0,3,1,05/01/2024,03/19/2025,8,1,C,High
+CP-0191,Commercial Property,Flood - Surface,Industrial,NC,PA,1,N,193400.0,1,0,08/17/2024,01/12/2025,13,2,B,High
+CP-0192,Commercial Property,Water Damage - Pipe Burst,BOP,IN,NC,1,N,21200.0,2,1,03/22/2024,12/01/2024,19,5,C,High
+CP-0193,Commercial Property,Vandalism,BOP,MD,IL,1,N,24300.0,1,0,11/30/2024,09/19/2025,17,0,C,High
+CP-0194,Commercial Property,Flood - Sewer Backup,Standalone Property,WV,IN,1,Y,41800.0,1,0,01/03/2024,08/26/2024,6,0,C,Medium
+CP-0195,Commercial Property,Business Interruption,Standalone Property,PA,IN,1,N,129100.0,3,1,02/01/2024,04/03/2024,18,5,A,Medium
+CP-0196,Commercial Property,Vandalism,Commercial Package,IN,MD,1,N,36500.0,1,0,12/09/2024,04/01/2025,18,2,B,High
+CP-0197,Commercial Property,Flood - Surface,Standalone Property,VA,PA,1,N,126900.0,3,1,03/07/2024,08/09/2024,13,5,C,High
+CP-0198,Commercial Property,Flood - Sewer Backup,Commercial Package,VA,IN,1,N,106000.0,1,0,12/21/2024,06/06/2025,11,1,C,High
+CP-0199,Commercial Property,Business Interruption,Commercial Package,WV,NC,1,N,54600.0,3,1,05/10/2024,07/10/2024,12,4,A,Low
+CP-0200,Commercial Property,Vandalism,Industrial,MD,IN,1,Y,8000.0,2,1,03/22/2024,01/23/2025,16,3,C,High

@@ -1,0 +1,41 @@
+claim_id,lob,loss_cause,policy_type,loss_state,insured_state,geographic_mismatch,stp_flag,reported_loss_amount,n_exposures_at_fnol,exposure_added_within_48h,fnol_date,fnol_hour,fnol_day_of_week,actual_final_adjuster_id
+CP-2025-001,Commercial Property,Wind/Hail - Exterior,Industrial,NC,WV,1,N,64700.0,3,1,01/24/2025,8,1,ADJ-004
+CP-2025-002,Commercial Property,Wind/Hail - Exterior,Commercial Package,KY,NC,1,N,47000.0,2,0,02/03/2025,17,5,ADJ-004
+CP-2025-003,Commercial Property,Wind/Hail - Roof,BOP,MD,PA,1,N,73600.0,1,0,01/24/2025,16,1,ADJ-006
+CP-2025-004,Commercial Property,Vandalism,Industrial,KY,PA,1,N,13800.0,1,0,01/19/2025,8,5,ADJ-014
+CP-2025-005,Commercial Property,Wind/Hail - Roof,Commercial Package,PA,PA,0,N,30100.0,1,0,02/07/2025,8,1,ADJ-009
+CP-2025-006,Commercial Property,Fire - Structure,BOP,PA,IL,1,N,535500.0,2,0,01/01/2025,7,2,ADJ-008
+CP-2025-007,Commercial Property,Wind/Hail - Roof,Standalone Property,PA,VA,1,Y,37100.0,1,0,01/13/2025,10,2,ADJ-009
+CP-2025-008,Commercial Property,Wind/Hail - Exterior,Industrial,MD,NY,1,N,31700.0,2,1,01/21/2025,17,5,ADJ-009
+CP-2025-009,Commercial Property,Flood - Sewer Backup,Industrial,VA,OH,1,Y,133500.0,3,1,02/03/2025,15,0,ADJ-009
+CP-2025-010,Commercial Property,Wind/Hail - Roof,Standalone Property,NY,OH,1,N,76000.0,1,0,02/26/2025,10,0,ADJ-008
+CP-2025-011,Commercial Property,Business Interruption,Commercial Package,NC,MD,1,N,148000.0,1,0,01/18/2025,14,6,ADJ-004
+CP-2025-012,Commercial Property,Wind/Hail - Roof,Industrial,MD,KY,1,Y,23000.0,1,0,02/27/2025,9,5,ADJ-015
+CP-2025-013,Commercial Property,Vandalism,Industrial,OH,OH,0,N,13000.0,2,1,01/08/2025,18,5,ADJ-009
+CP-2025-014,Commercial Property,Fire - Structure,Industrial,PA,OH,1,N,411800.0,2,1,01/07/2025,12,3,ADJ-009
+CP-2025-015,Commercial Property,Fire - Structure,Standalone Property,IN,KY,1,N,665900.0,2,1,02/03/2025,9,3,ADJ-004
+CP-2025-016,Commercial Property,Equipment Breakdown,Standalone Property,PA,VA,1,N,33000.0,1,0,02/02/2025,15,0,ADJ-006
+CP-2025-017,Commercial Property,Wind/Hail - Exterior,BOP,PA,NY,1,N,68100.0,1,0,02/25/2025,19,4,ADJ-009
+CP-2025-018,Commercial Property,Wind/Hail - Roof,Industrial,IL,NY,1,N,53300.0,1,0,01/06/2025,11,1,ADJ-008
+CP-2025-019,Commercial Property,Fire - Electrical,BOP,KY,PA,1,N,350400.0,3,0,02/13/2025,15,1,ADJ-006
+CP-2025-020,Commercial Property,Wind/Hail - Roof,Standalone Property,MD,WV,1,N,112100.0,1,0,01/12/2025,8,6,ADJ-004
+CP-2025-021,Commercial Property,Business Interruption,Standalone Property,IN,WV,1,N,136400.0,2,1,02/19/2025,8,4,ADJ-001
+CP-2025-022,Commercial Property,Wind/Hail - Exterior,Industrial,NY,IL,1,N,69200.0,1,0,01/08/2025,6,2,ADJ-008
+CP-2025-023,Commercial Property,Fire - Structure,Commercial Package,OH,IL,1,N,725400.0,2,0,01/02/2025,14,1,ADJ-008
+CP-2025-024,Commercial Property,Wind/Hail - Roof,BOP,KY,PA,1,N,45400.0,1,0,02/11/2025,20,1,ADJ-014
+CP-2025-025,Commercial Property,Vandalism,BOP,VA,PA,1,N,23000.0,1,0,01/15/2025,8,1,ADJ-009
+CP-2025-026,Commercial Property,Wind/Hail - Exterior,Industrial,IN,IN,0,N,22500.0,1,0,01/31/2025,13,1,ADJ-006
+CP-2025-027,Commercial Property,Flood - Surface,Industrial,VA,IL,1,N,242000.0,2,1,01/24/2025,19,5,ADJ-009
+CP-2025-028,Commercial Property,Wind/Hail - Roof,Standalone Property,NC,VA,1,N,66700.0,1,0,03/01/2025,17,0,ADJ-015
+CP-2025-029,Commercial Property,Water Damage - Pipe Burst,Commercial Package,OH,OH,0,N,68900.0,3,1,01/08/2025,20,2,ADJ-014
+CP-2025-030,Commercial Property,Wind/Hail - Roof,Commercial Package,VA,OH,1,N,89600.0,1,0,02/19/2025,18,4,ADJ-001
+CP-2025-031,Commercial Property,Flood - Surface,Commercial Package,PA,MD,1,Y,209900.0,2,1,02/14/2025,17,1,ADJ-009
+CP-2025-032,Commercial Property,Water Damage - Pipe Burst,Standalone Property,NY,IN,1,N,19500.0,1,0,02/01/2025,7,6,ADJ-004
+CP-2025-033,Commercial Property,Flood - Surface,Industrial,WV,PA,1,N,154700.0,1,0,01/06/2025,18,6,ADJ-006
+CP-2025-034,Commercial Property,Flood - Surface,Standalone Property,IL,MD,1,N,77100.0,3,1,02/24/2025,13,3,ADJ-014
+CP-2025-035,Commercial Property,Flood - Sewer Backup,Commercial Package,IL,NY,1,Y,146200.0,1,0,02/27/2025,10,1,ADJ-009
+CP-2025-036,Commercial Property,Flood - Surface,BOP,PA,IN,1,N,52400.0,1,0,02/15/2025,14,2,ADJ-015
+CP-2025-037,Commercial Property,Wind/Hail - Roof,Commercial Package,NY,VA,1,N,99400.0,2,0,01/30/2025,8,2,ADJ-015
+CP-2025-038,Commercial Property,Flood - Sewer Backup,Commercial Package,KY,KY,0,N,23200.0,1,0,02/26/2025,17,2,ADJ-006
+CP-2025-039,Commercial Property,Wind/Hail - Roof,Standalone Property,PA,IN,1,N,55400.0,1,0,02/25/2025,12,6,ADJ-004
+CP-2025-040,Commercial Property,Wind/Hail - Roof,Standalone Property,MD,WV,1,Y,97300.0,1,0,01/02/2025,7,4,ADJ-008
